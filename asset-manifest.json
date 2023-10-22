@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/riadosman/Ramita/static/css/main.fabc379d.css",
+    "main.js": "/riadosman/Ramita/static/js/main.d83496c3.js",
+    "static/media/webdesign.jpg": "/riadosman/Ramita/static/media/webdesign.2c8c60a9cb5c8d40cd36.jpg",
+    "static/media/marketing.jpg": "/riadosman/Ramita/static/media/marketing.9d67df97a4f609448d4f.jpg",
+    "static/media/main.jpg": "/riadosman/Ramita/static/media/main.27fb55f4203b7c10cde8.jpg",
+    "static/media/fullimgs.jpg": "/riadosman/Ramita/static/media/fullimgs.e1addff51042fee47851.jpg",
+    "index.html": "/riadosman/Ramita/index.html",
+    "main.fabc379d.css.map": "/riadosman/Ramita/static/css/main.fabc379d.css.map",
+    "main.d83496c3.js.map": "/riadosman/Ramita/static/js/main.d83496c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fabc379d.css",
+    "static/js/main.d83496c3.js"
+  ]
+}
