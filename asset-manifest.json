@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/Ramita/static/css/main.2ac599d8.css",
-    "main.js": "/Ramita/static/js/main.823e9f19.js",
+    "main.css": "/Ramita/static/css/main.767b4604.css",
+    "main.js": "/Ramita/static/js/main.fb71cce3.js",
     "static/media/webdesign.jpg": "/Ramita/static/media/webdesign.2c8c60a9cb5c8d40cd36.jpg",
     "static/media/marketing.jpg": "/Ramita/static/media/marketing.9d67df97a4f609448d4f.jpg",
     "static/media/main.jpg": "/Ramita/static/media/main.27fb55f4203b7c10cde8.jpg",
     "static/media/fullimgs.jpg": "/Ramita/static/media/fullimgs.e1addff51042fee47851.jpg",
+    "static/media/04.jpg": "/Ramita/static/media/04.fe8a43e14e3fd8fcc6a5.jpg",
+    "static/media/01.jpg": "/Ramita/static/media/01.0e673973498c53a3a05f.jpg",
+    "static/media/03.jpg": "/Ramita/static/media/03.b49deb507f9bca3345ba.jpg",
+    "static/media/02.jpg": "/Ramita/static/media/02.bbcda178ebe19cbf5058.jpg",
     "static/media/costumerservice.jpg": "/Ramita/static/media/costumerservice.db156254be5e7dac6c47.jpg",
     "index.html": "/Ramita/index.html",
-    "main.2ac599d8.css.map": "/Ramita/static/css/main.2ac599d8.css.map",
-    "main.823e9f19.js.map": "/Ramita/static/js/main.823e9f19.js.map"
+    "main.767b4604.css.map": "/Ramita/static/css/main.767b4604.css.map",
+    "main.fb71cce3.js.map": "/Ramita/static/js/main.fb71cce3.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ac599d8.css",
-    "static/js/main.823e9f19.js"
+    "static/css/main.767b4604.css",
+    "static/js/main.fb71cce3.js"
   ]
 }
