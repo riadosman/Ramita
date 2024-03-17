@@ -1,0 +1,67 @@
+
+.contact{
+  text-align: right;
+  height: calc(100vh - 68px);
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+.contact .card {
+  width: fit-content;
+  height: fit-content;
+  background-color: rgb(238, 238, 238);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 50px;
+  gap: 20px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.055);
+}
+/* button */
+.contact .card svg{
+  fill: white;
+}
+.contact .button {
+  display: flex;
+  color: #ffffff;
+  padding: 0.5rem 1.4rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+  text-align: center;
+  vertical-align: middle;
+  align-items: center;
+  border-radius: 0.5rem;
+  gap: 0.75rem;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: .6s ease;
+}
+.contact .button.instagram{
+  background-color: #d62976;
+}
+.contact .button.Whatsapp{
+  background-color: #25D366;
+}
+.contact .button.Facebook{
+  background-color: #4267B2;
+}
+.contact .button.Website{
+  background-color:var(--main-color);
+}
+.contact .button svg {
+  height: 30px;
+}
+
+.contact p:first-of-type {
+  font-size: 45px;
+}
+.contact p:last-of-type {
+  font-size: 20px;
+}
+
+.contact .button:hover {
+  box-shadow: none;
+}

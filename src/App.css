@@ -1,0 +1,38 @@
+:root {
+  --main-color: #191d88;
+  --primary-color: #af7cdb;
+  --primary-gradient: linear-gradient(to left, #af7cdb 70%, #382a68);
+  --secondry-color: #382a68;
+  --secondry-gradient: linear-gradient(to bottom, #382a68, #af7cdb);
+  --spacific-color: #ffc436;
+}
+.bg-main {
+  background: var(--main-color);
+}
+.bg-primary-c {
+  background: var(--primary-color);
+}
+.bg-secondry {
+  background: var(--secondry-gradient);
+}
+.bg-spacific {
+  background: var(--spacific-color);
+}
+.navbar {
+  padding: 10px 0;
+}
+/* CARDS */
+.Home .cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 50px 0;
+}
+hr.bg-main {
+  height: 5px;
+  border: none;
+}
+.methods{
+  height: calc(100vh - 68px);
+  overflow: hidden;
+}
