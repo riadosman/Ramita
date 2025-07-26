@@ -16,12 +16,12 @@ main .content p:first-of-type {
 main .content p:last-of-type {
   font-size: 20px;
 }
-main .content .arr-list{
+main .content .arr-list {
   list-style-type: none;
   position: relative;
 }
-main .content .arr-list li::after{
-  content: "•";
+main .content .arr-list li::after {
+  /* content: "•"; */
   display: inline-block;
   margin-left: 10px;
 }
@@ -104,7 +104,7 @@ button.learn-more .button-text {
   bottom: 0;
   padding: 0.75rem 0;
   margin: 0 0 0 1.85rem;
-  color:#fff;
+  color: var(--secondry-color);
   font-weight: 700;
   line-height: 1.6;
   text-align: center;
@@ -123,8 +123,8 @@ button:hover .circle .icon.arrow {
 button:hover .button-text {
   color: #fff;
 }
-@media (max-width:600px){
-  .main{
+@media (max-width: 600px) {
+  .main {
     display: flex;
     flex-direction: column;
   }

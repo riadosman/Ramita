@@ -5,11 +5,11 @@ const Contact = () => {
     <div className="contact">
       <div className="content">
         <p>تواصل معنا</p>
-        <p>نحن على بعد ضغطه واحه منك</p>
+        <p>نحن على بعد ضغطه واحده منك</p>
       </div>
       <div className="card">
         <a
-          href="https://www.instagram.com/_media/"
+          href="https://www.instagram.com/ramita_media/"
           target="_blank"
           className="button instagram"
           rel="noreferrer"
@@ -50,7 +50,7 @@ const Contact = () => {
           Continue with Facebook
         </a>
         <a
-          href="https://media.com/"
+          href="https://ramitamedia .com/"
           className="button Website"
           rel="noreferrer"
           target="_blank"

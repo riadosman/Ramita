@@ -1,14 +1,15 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-body{
-  font-family: 'Roboto', sans-serif;
-  background: var(--secondry-gradient);
+body {
+  font-family: "Cairo", sans-serif;
+  /* background: var(--secondry-gradient); */
+  background: #ffff;
   background-repeat: no-repeat;
-  color: #fff;
+  color: var(--secondry-gradient);
 }
-a{
+a {
   text-decoration: none;
 }

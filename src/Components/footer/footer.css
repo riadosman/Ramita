@@ -8,7 +8,9 @@
   display: flex;
   flex-wrap: wrap;
 }
-
+.footer-content .links ul li:hover {
+  color: #fff;
+}
 .footer-section {
   flex: 1;
   margin: 10px;

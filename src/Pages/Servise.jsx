@@ -5,7 +5,7 @@ import { ServiseCards } from "../data/data";
 const Servise = () => {
   const { id } = useParams();
   return (
-    <div>
+    <div className="methods">
       <Main
         title={ServiseCards[id - 1].title}
         description={ServiseCards[id - 1].describtion}

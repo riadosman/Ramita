@@ -22,7 +22,7 @@ const Oursevices = () => {
           </Link>
         );
       })}
-      <Link to="//Contact">
+      <Link to="/Contact">
         <OursevicesCard
           costum={[fourthimg, "هل تحتاج فقط إلى الأساسيات؟ ابدأ مجانًا."]}
         />

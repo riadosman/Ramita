@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-section about">
             <h2>Ramita</h2>
-            <p>شركتك انجح معنا</p>
+            <p>علامتك التجارية، حلمٌ نُحوله إلى حقيقة.</p>
           </div>
           <div className="footer-section links">
             <ul>
@@ -24,10 +24,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <a
-                  className="nav-link"
-                  onClick={goToServices}
-                >
+                <a className="nav-link" onClick={goToServices}>
                   خدماتنا
                 </a>
               </li>

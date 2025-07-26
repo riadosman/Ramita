@@ -3,12 +3,12 @@ nav {
   border-bottom: 2px solid var(--primary-color);
 }
 nav .container > a,
-nav .container .logo-content a{
-  color: white;
+nav .container .logo-content a {
+  color: var(--main-color);
   font-size: 24px;
   transition: 0.5s;
 }
-nav .container .logo-content{
+nav .container .logo-content {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -29,7 +29,7 @@ nav ul {
 /* .nav-link */
 .nav-link {
   font-size: 18px;
-  color: #e1e1e1;
+  color: var(--secondry-color);
   font-family: inherit;
   font-weight: 800;
   cursor: pointer;
@@ -44,7 +44,7 @@ nav ul {
 
 .nav-link:focus,
 .nav-link:hover {
-  color: #fff;
+  color: var(--main-color);
 }
 
 .nav-link:focus:after,
@@ -70,7 +70,7 @@ nav ul {
 /* menu */
 .buttons__burger {
   --size: 2rem;
-  --clr:var(--primary-color);
+  --clr: var(--primary-color);
   width: var(--size);
   height: calc(0.7 * var(--size));
   cursor: pointer;
@@ -123,27 +123,27 @@ nav ul {
   width: 50%;
   top: 50%;
 }
-.full-screen{
+.full-screen {
   position: absolute;
   width: 100%;
   height: 1000%;
   background: #0000004d;
   top: 0;
 }
-.full-screen .navbar{
+.full-screen .navbar {
   margin: 50px auto;
   padding: 10px;
   width: 250px;
   background: rgba(22, 0, 218, 0.384);
   border-radius: 10px;
 }
-.full-screen .navbar .nav-item{
+.full-screen .navbar .nav-item {
   margin: 3px auto;
 }
-.full-menu{
+.full-menu {
   display: none;
 }
-.navbar .container .logo{
+.navbar .container .logo {
   width: 50px;
   height: 50px;
 }
